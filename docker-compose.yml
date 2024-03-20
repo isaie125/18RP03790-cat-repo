@@ -1,6 +1,6 @@
 version: '1.1.1'
 services:
-  23rp00990-php:
+  23rp00980-php:
     build: .
     ports:
       - 9000:80
